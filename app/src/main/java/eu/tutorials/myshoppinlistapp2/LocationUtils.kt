@@ -16,6 +16,7 @@ import com.google.android.gms.location.LocationResult
 import com.google.android.gms.location.LocationServices
 import com.google.android.gms.location.Priority
 import com.google.android.gms.maps.model.LatLng
+import eu.tutorials.myshoppinglistapp.LocationViewModel
 import java.util.Locale
 
 class LocationUtils(val context: Context) {
