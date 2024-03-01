@@ -62,18 +62,16 @@ Follow these steps to set up and run the app:
    git clone https://github.com/nishkarsh25/MyShoppinListApp2.git
    ```
 
-## Usage
-
-1. **Open the Project:**
+2. **Open the Project:**
    Open the project in Android Studio.
 
-2. **Provide API Key:**
+3. **Provide API Key:**
    Obtain an API key for the Google Maps Android API and add it to the `local.properties` file:
 
    ```makefile
    GOOGLE_MAPS_API_KEY=your_api_key_here
    ```
-3. **Build and Run:**
+4. **Build and Run:**
    Build and run the project on an Android emulator or a physical device.
 
 ## Contributing
