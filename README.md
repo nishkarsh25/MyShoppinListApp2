@@ -29,6 +29,11 @@ Integration with the Google Maps Android API enables seamless location-based fun
 # GIF's
 <img src="https://github.com/nishkarsh25/MyShoppinListApp2/blob/main/Screenshots/ss7.gif" alt="Screenshot 4" width="300">
 
+## JSON
+<img src="https://github.com/nishkarsh25/MyShoppinListApp2/blob/main/Screenshots/ss8.png" alt="Screenshot 1" width="600">
+
+<img src="https://github.com/nishkarsh25/MyShoppinListApp2/blob/main/Screenshots/ss9.png" alt="Screenshot 2" width="600">
+
 
 ## Tech Stack
 
