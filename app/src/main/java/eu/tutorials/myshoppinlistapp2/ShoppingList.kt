@@ -219,7 +219,7 @@ fun ShoppingListApp(
                             val newItem = ShoppingItem(
                                 id = sItems.size + 1,
                                 name = itemName,
-                                quantity = itemQuantity.toInt(),
+                                quantity = itemQuantity.toIntOrNull() ?: 1,
                                 address = address
                             )
                             sItems = sItems + newItem
